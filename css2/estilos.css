@@ -1,0 +1,65 @@
+#contenedor{
+   
+}
+
+#menu{
+    height: 200px;
+    background-color:pink;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+#goku{
+    height: 200px;
+    width: 200px;
+    background-color: blue;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: absolute;
+    top: 40%;
+    left: 10%;    
+}
+.imagen {
+    width:200px;
+    height:200px;
+    border-radius:20px;
+}
+
+#img1{
+    height: 200px;
+    width: 200px;
+    background-color: red;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: absolute;
+    top: 40%;
+    left: 45%;
+    
+}
+#img2{
+    height: 200px;
+    width: 200px;
+    background-color: white ;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: absolute;
+    top: 40%;
+    left: 80%;
+    
+}
+
+#cuerpo{
+    height: 400px;
+    background-color: greenyellow;
+
+}
+
+#footer{
+    height: 200px;
+    
+    background-color:yellow;
+}
