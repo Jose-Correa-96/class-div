@@ -1,0 +1,14 @@
+#indice{
+    color: red;
+    text-decoration: none;
+}
+#indice li>a:hover{
+    background-color: white;
+    color: gray;
+    text-transform: uppercase;
+}
+#indice{
+    font-style: italic;
+    text-decoration: none;
+}
+
